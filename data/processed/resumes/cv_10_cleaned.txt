@@ -1,0 +1,31 @@
+
+web frontend developer
+years of experience in frontend development
+experience summary
+programming languages javascript typescript php
+web html css sass javascript typescript pug jade haml nodejs gulp webpack
+frameworks react react native angular
+libraries jquery redux rxjs chart.js anime.js tinymce material ui bootstrap tilwind and more..
+environments ide tools phpstorm vs code github adobe photoshop figma.
+databases mysql
+system windows linux macos
+experience
+2021-present frontend developer remote part-time
+-- wpg nitzana israel
+support and development of game sites for cryptocurrencies casino.
+development of a constructor and panel of social polls lemur . improvement of functionality for entering other markets.
+2017-2021 frontend developer
+-- wpg kharkiv ukraine
+support and development of the functionality of a large network of auto parts stores.
+support and development of game sites for cryptocurrencies casino. development of new games with css and javascript animations. for one of the games i developed an additional server part on nodejs using websocket.
+development of a constructor and panel of social polls lemur . direct participation in the creation of a product concept implementation in terms of interaction of online panels web ios android constructors offline applications for taking surveys without the internet. development of a online panel application for surveys of respondents for ios android using react native.
+sometimes outsourcing of small projects.
+2016-2017 html markup
+-- wpg kharkiv ukraine
+website layout with pixel perfect responsive css and js animations .
+2016 freelance
+-- kharkiv ukraine
+html markup. psd to html. wordpress plugins development.
+education
+2012- 2017 o.m. beketov national university of urban economy in kharkiv.
+diploma in engineering heat supply gas supply and ventilation.

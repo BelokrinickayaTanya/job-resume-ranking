@@ -1,0 +1,37 @@
+
+java full stack developer
+in java backend development and in web frontend
++ years of experience fullstack development and + total experience in software development
+phone linkedin
+location bat yam email
+professional skills
+programming languages java javascript.
+web html5 css3 jquery bootstrap3
+environments ide tools eclipse intellij idea github.
+databases sql mysql nosql mongodb .
+technologies frameworks oop aop spring mvc jpa hibernate jdbc springboot spring security spring web rest json maven junit git postman.
+systems linux windows.
+professional experience
+2020 - now backend java developer israel rehovot
+latest project participation in the development of a microservice architecture for a system for storing educational information.
+areas of responsibility
+developed backend website application - restful web service spring boot starter web
+authentication authorization spring security
+working with mongodb mysql
+writing and running junit tests fixing defects
+email feedback.
+json web token for user authentication using swagger ui to render and interact with api rest https.
+tools summary spring boot spring security hibernate orm json rest mysql mongodb java persistence api maven jdbc apache tomcat junit html5 css3.
+2017 2019 full stack java developer bank otkritie russia moscow
+preparation of non-standard reports by executing queries to sql databases. creating a simple web interface for entering a request and getting the result in a user-friendly form html ccs bootstrap javascript .
+performed hardware and software installations and provided high-level customer care training and technical support.
+2005 - 2017 software r-style language developer privatbank ukraine dnepr
+performed hardware and software installations and provided high-level customer care training and technical support.
+introduction of changes in the terms of service for bank products into the business logic of the program code. r-style language .
+education
+2000 - 2005 master s degree in computer science and information technology.
+specialization design and production of electronic computing systems.
+national technical university of ukraine
+other
+languages english hebrew russian ukrainian.
+recommendations are available upon request

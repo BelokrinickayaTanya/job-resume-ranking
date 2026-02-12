@@ -1,0 +1,62 @@
+profile
+im from saratov russian federation. i was a lawyer with experience in
+contract law. it has always been my desire to work in it. now i am looking
+for an opportunity to change my eld of activity and nally come to what
+i wanted for a long time. previously i studied the ms sql by myself and
+was an intern in writing requests. now i am studying to be a web
+developer namely studying interaction of html css and javascript.
+i am masa program graduated in the eld of web development. as a
+result of the course i gained the skills necessary for front-end
+development.
+angelina nissim
+i did my internship in servc herzlia israel. as part of the masa program
+front end developer
+i studied react framework during the internship i was taught a new
+framework for me - angular on which the project was written and with
+which i worked throughout the entire internship.
+contact info
++
+experience
+
+jan 2022 - apr 2022 front end developer intern
+www.linkedin.com angelina- servc during the internship i did many tasks among which
+nissim
+redesigned all tables in the project in accordance
+
+with the layout in figma and thus improved the user
+tel aviv israel experience based on customer feedback.
+created a library of components such as inputs
+selectors icons to improve dx.
+education
+was responsible for rewriting the login page both
+october 2021-december 2021 frontend and backend .
+masa web development
+cource israel oct 2021 - dec 2021 student
+masa during the cource i created projects that helped me
+improve my front-end development skills.
+ma in jurisprudence
+for example this is a quiz game project and simple
+saratov state law academy
+calculator.
+russia
+these and other projects created by me are attached
+to the portfolio.
+
+ba in jurisprudence
+saratov state law academy april 2021 sql freelance
+russia freelance compilation of sql queries
+ensuring the operation of databases
+oct 2020 - dec 2020 legal adviser
+languages nornickel norilsk nikel is the worlds largest producer of nickel
+and palladium.
+hebrew created and edited over contracts
+negotiated with more than counterparties
+english including government agencies
+user of corporate database systems
+russian
+professional skills
+html
+css
+javascript
+sql
+angular

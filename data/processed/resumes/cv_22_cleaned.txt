@@ -1,0 +1,45 @@
+birth year 1990 city kiriat yam israel linkedin
+
+email telegram phone
+
+summary
+i have + years of experience in server-side development. i have been developing dwh with
+etl processes data input forms and olap reports. i have been implementing business
+logic in pl sql. now i am learning hebrew on masa in kiriat yam.
+professional skills sql oracle pl sql c# python
+
+languages russian native english b1.
+
+experience
+pro it resource oracle developer perm russia
+
+development and support of olap financial data monitoring systems.
+the business logic of the systems was implemented as pl sql packages. main tasks
+which were implemented
+data loading from external systems in form of incremental daily updates in xml
+maintenance of various directories and indicators data input according to them
+development of olap reports based on input data.
+kiberone tutor perm russia
+
+er-telecom oracle developer perm russia
+
+support of the equipment manager system network equipment accounting
+system
+finalization of the electronic document management system in equipment
+manager transferring documents to 1c and billing system
+jsc prognoz junior tester perm russia
+
+the perm state regional universal library
+named after a.m.gorky perm russia
+
+computer lab administrator
+education
+perm national research polytechnic university
+2011 2017 electrical engineering faculty speciality automated control and
+information processing systems extramural incomplete
+perm state national research university
+2007 2010 faculty of mechanics and mathematics speciality mechanics applied
+mathematics incomplete
+hobbies and other activity i like running fencing and hiking. i have experience as a
+
+volunteer.

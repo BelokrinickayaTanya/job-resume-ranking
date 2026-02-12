@@ -1,0 +1,34 @@
+
+frontend developer
+years of experience in frontend development react redux
+phone residence netanya israel
+e-mail
+linkedin languages english russian
+experience summary
+programming language javascript python java c# .net.
+web react redux redux toolkit styled-components react hook form html5 css3 scss bootstrap jquery google map api.
+technologies node js jsx json xml npm yarn ajax uml.
+environments ide tools microsoft visual studio code webstorm intellij idea eclipse
+iridium mobile extron global configurator crestron sw-simpl github heroku firebase adobe photoshop adobe illustrator figma jira slack.
+web-services rest api.
+qa tools postman react profiler redux devtools.
+databases mysql mongodb t-sql. system windows linux
+experience
+2021 - present frontend developer rehovot israel
+main project platform for finding employees for companies.
+participation in the project development. the following modules were in my area of responsibility creating platform visually according to template file. creating users with the definition of access roles. code refactoring. creation forms to send data to database authorization forms. sorting algorithms depending on the option selected by the user. rendering ui using react router dom. integrated new technologies and replaced the outdated. represented team interests in front of company s supervisors.
+participated in projects in all stages of the product life cycle. extensively utilized github for version control in an agile development environment.
+used html css javascript react react router dom react hook form redux.
+2019- 2021 mes architect ui developer st.petersburg russia
+main project mes system for alrosa mines.
+designed ui for mes systems designed data-flow diagrams and all logic for mes system support for c# applications. wonderware system platform project testing maintenance and deployment. arrangement of reservation stage-by-stage updating of the system at the facility. communication with technical support installation of fixes. participated in the development of the bi service on vanilla javascript.
+used c# .net javascript wonderware quick script adobe illustrator.
+2015- 2019 control system programmer st.petersburg russia
+main project school of engineering and technology. development of a management system. development of control interfaces for smart equipment designed ui interface for desktop app designed ui interface for mobile tablet writing utilities in c# for integrating various equipment with control systems.
+used javascript c# python adobe illustrator extron global configurator iridium mobile.
+education and courses
+2010- 2014 bachelor in informatics - polytechnic university spbpu
+faculty of technical cybernetics st.petersburg russia
+2019 online courses t-sql for beginners from udemy
+2020 online courses web development for developers from scrimba
+recommendations are available upon request

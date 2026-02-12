@@ -1,0 +1,45 @@
+front end developer
+tel-aviv israel age years old
+work experience
+contacts elpisor ltd rehovot israel
+
+front end developer
+
+migrated layout to responsive bem based model
+
+from legacy adaptive use of code minification
+m
+methods css sprites as well as the optimization of
+all images which decreased time to support all
+in christina-lorman- possible device resolutions on avg by .
+
+education
+anchristina
+2019 tel-ran educational center ltd. israel
+citizenship front-end developer
+israel
+about me
+languages
+i have finished one-year course and have one-year experiance. i
+keep studying java and planning to become a full-stack
+english
+developer.
+b2 - upper intermediate
+recommendations are available upon request.
+hebrew
+b2 - upper intermediate
+recommendations
+russian
+c2 - proficiency pavel rosenfeld front end team lead elpisor ltd israel
++
+skills
+html5
+css + sass less
+bootstrap
+es6
+javascript
+rest api
+react + redux
+webpack
+git
+node.js

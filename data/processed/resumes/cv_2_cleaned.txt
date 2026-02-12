@@ -1,0 +1,31 @@
+
+full-stack developer
+years experience in java back-end and in javascript front-end
+languages english hebrew russian
+linkedin
+looking for full-stack back-end java developer position
+experience summary
+programming languages java javascript
+technologies microservices maven spring boot security mail data jpa config netflix eureka validation docker kafka json junit5 + hamcrest mockito google maps api geocoding swagger lombok
+web rest api html5 css3.
+environments ide tools github jira postman eclipse intellij idea webstorm visual studio code.
+databases postgresql mysql mongodb redis hsqldb.
+os windows mac os linux
+experience
+july 2020 now java back-end developer elpisor ltd israel rehovot www.elpisor.com
+the development of a project for an international group of internet-shops to prevent attempts of illegal access by brute-force passwords from blocked ips. microservices . the application includes the following functionality receives from clients webservices logs about failure attempts to login analyzing sequences login attempts from one ip saving bad ips to db blocking login from bad ips email notification about new bad ips.
+the development of a microservices project for a municipality which is intended for an analyzing illegal parking and a sending notification. microservices . the application includes the following functionality receives messages about cars stops from mobile and stationary cameras analyzing sequences of messages to check parking or stop collecting an information from different sources analyzing information to check parking is legal or illegal saving illegal parking to db notification about illegal parking. google maps api revers geocoding .
+the development of a complete logs and bugs analyzing and reporting solution for development purposes microservices . the application includes the following functionality receiving analyzing and saving logs to db saving bugs to db email notification about bugs search filter logs using multiple selectors.
+tools summary for all projects see technologies frameworks and an in addition user authentication. to synchronous request and send a data to db is used appropriate drivers in pom.xml . to send notifications is used spring boot starter mail. to handle http exceptions is used exceptionhandler class. the functionality is implemented through back-offices with rest api. to manage properties is used configuration service spring config-server with properties repository on github. a random generator of a data is used for a testing. gateway. google maps api geocoding . lombok. javax validation. eclipse.
+2017 2020 fullstack developer cetera labs russia moscow www.ceteralabs.com
+the development of a business website for a cosmetics brand. the development of a website for a digital media hi-teck news . the creation of a corporate portal of a dental-clinic equipment supplier. websites include a range pages multiple forms an authorization an admin panel an interaction with databases sending notifications to users and an administrator. layout of pages for websites. the creating unit-tests bug-fixing creating rest api.
+tools summary. front wordpress custom cms html5 css3 javascript react. back spring boot junit5 and mockito rest api. postman and swagger to interact with the api rest http. javax validation. github.
+2015 2017 data scientist company consultantplus russia moscow www.consultant.ru
+data analyzing development of computer reference legal systems consultantplus . placement of legal documents in databases using an internal database management system. formation of tables of contents placement of hyperlinks.
+tools summary internal database management system. html.
+education
+2000-2005 master s degree in computer reference legal systems in omsk government academy russia.
+courses and special programs
+2017-2018 courses java developer from geekbrains.
+2020 special program for adaptation of software developers according to israel it technologies.
+recommendations are available upon request.

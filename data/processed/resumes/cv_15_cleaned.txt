@@ -1,0 +1,40 @@
+
+frontend developer - years experience
+phone email
+residence holon languages hebrew english russian
+experience summary
+web technologies angular webpack rest ajax jquery html css bootstrap
+programming languages javascript nodejs typescript python perl
+databases sqlite mysql mongodb neo4j tinydb
+methodology agile waterfall scrum
+experience
+- britannica tel aviv israel web front end developer
+description knowledgebase project with time and resource management for educational processes in
+commercial specialized educational institutions.
+responsibilities renewed and optimized ui and ux renewed rest api migrated from legacy solution
+aspx to newest solutions and technologies angular + refactored code.
+technologies used html5 css3 angular + typescript nodejs websocket
+2017 - 2018 athena holon israel web front end developer
+description documentation accounting system. search engine for seeking information in open sources
+and building structured knowledge base with internal search.
+responsibilities renewed and optimized ui and ux. renewed api. migrated legacy code to newest
+solutions and technologies
+technologies used html5 css3 angularjs . angular + nodejs websocket
+2016 - 2017 freelance web front end developer
+neighbro
+description project designed as mini social network for tenants and landlords.
+responsibilities projected and implemented api and ux. written documentation
+technologies used html5 jquery javascript angularjs . nodejs
+panels dashboard
+description web application dashboard for analysis survey data visualization statistical data.
+responsibilities projected and implemented api and ux
+technologies used html5 ajax javascript reactjs bootstrap css
+2012 - 2016 woxapp dnipro ukraine web front end developer
+
+description cloud storage for photos with social networking forum and chat.
+responsibilities projected and implemented ux and client-server logic
+technologies used html5 ajax javascript
+education
+2002 2007 national mining university dnepropetrovsk ukraine
+degree software developer master degree
+recommendations available upon request.

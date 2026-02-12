@@ -1,0 +1,43 @@
+- whatsapp
+- israel
+github
+executive summary
+simultaneously managing multiple projects with minimum direction and maintaining
+accuracy under pressure
+contributed to product development product roadmap planning
+defined architecture of new ios apps and developed them broadly from engineering and
+coding features to polishing user interfaces
+knowledge of ui design principles patterns and practices
+self-starter with a strong work ethic and a passion for problem-solving
+english upper intermediate russian fluent belarusian - advanced
+professional experience independent developer 2021 till now
+performed technical designs and implementations of ios apps with user-friendly and
+intuitive interface
+improved product quality through code reviews writing effective unit tests and collaborating
+with qa on implementing automation testing
+created my own application called mobile wallet to track finances. therefore ive
+operated with core data obtained data from the server and upload it to the tableview
+experienced in cocoapods alamofire and swiftgen three screens are created using
+storyboard two screens are written in code
+gathering functional requirements developing technical specifications and project test
+planning
+ios-developer intern at softteco minsk .2021
+completed commercial projects
+managed team working skills by participating in groups to create apps
+learnt to read any code in existing code-base and change it
+collaborated in multi-functional tasks and worked under pressure
+ios-developer at 365scores tel-aviv .2022
+working withrestful apis core data and gcd
+making watchos app with swiftui
+testing and debugging mobile application
+work to expand improve on an ongoing basis by adding new functionality and resolving
+existing issues
+education
+programming school teach me skills minsk ios developer -
+veterinary university minsk veterinary paramedic -
+technical skills
+programming language swift
+api frameworks alamofire swiftyjson swiftui
+databases coredata realm firebase
+architectures mvp mvvm mvc
+technologies autolayout rest api solid git

@@ -1,0 +1,37 @@
+
+ios developer
+ashdod israel
+
+
+experience
+superup ashdod israel
+ios developer
+february 2017 present
+development of applications for ios in s wift according to g itflow and j ira
+scrum. c i experience. using of c ocoatouch foundation alamofire xibs
+storyboards coredata realm etc. publishing to app store.
+integration with back-end r est api firebase and other google services.
+full stack developer
+march 2016 february 2017
+development of high loaded back-end software on php symphony laravel and
+java spring with postgresql database.
+front-end development on a ngular js backbone js bootstrap.
+data analytics in bigquery by g oogle data studio. system monitoring by zabbix elk.
+mobile web on f ramework jquery mobile. mobile bots for whatsapp telegram
+facebook.
+infosoft barnaul russia
+b ack-end developer
+june 2014 september 2015
+back-end development on c# .net with m ysql database.
+system administration and monitoring.
+skills
+swift java php c c++ c# lua js css html sql xcode intellij idea eclipse visual
+studio realm postgresql bigquery mysql mongodb.
+education
+app brewery school london uk course
+november 2016 february 2017 ios and swift - the complete ios app development.
+tel ran college rehovot israel c ourse
+september 2015 march 2016 web and mobile applications development.
+altai technical state university b arnaul russia bachelor degree
+september 2010 may 2015 s oftware engineering.
+languages hebrew english russian.

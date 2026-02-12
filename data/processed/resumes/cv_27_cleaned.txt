@@ -1,0 +1,66 @@
+
+golang developer
+karmiel israel able to relocate
+
+
+telegram
+github entertainment-veks
+general
+im a golang back-end developer who migrated from android java kotlin
+month ago. got a half+ of a year of development web-apps near blockchain and
+digital currency. also have . years of experience in developing android-apps.
+also took a couple of courses from yandex.practicum. more details below
+skills
+golang go standard library gorilla go testing gogoc go database go vet + go analyze
+custom linters go validation ozzo playground facebookgo inject loggers
+architecture mvc mvp mvvm solid acid oop goproject layout
+android general java core kotlin core hibernate jpa sql firebase jdbc some spring
+modules rest websocket migrate docker docker compose makefiles cron mysql
+postgresql sqlite livedata multithreading coroutines room dagger2 koin hilt navui rx
+basic glide gson android design components android jetpack espresso junit etc..
+language ukrainian russian - native english - upperintermediate hebrew - beginner
+projects
+golang
+demo project gophermart-web service for accumulativeloyalty system still in progress
+application x -client for one of the digital currencyexchange likebinance in company x
+application x -client for one of the digital currencywallets storagelikemetamask in company x
+android
+demo project news app - news app june 2021
+godog-app for training dogs in leverx
+application x -shop-app for the biggest germanycustomer in leverx
+consulty -platform for expert consultations on alltopics in sk.webstudio
+work experience
+golang developer - company x kyiv remote - product outsourceit company
+casual developer. has finished a few projects.
+generally was making clients for services which related with blockchain
+and digital currency like binance metamask etc.
+got knowledge of how blockchain and digital currency works also got knowledge about
+microservice architecture and instruments like kaa or websockets
+from november 2021 till now
+android developer - leverx kyiv office local -outsource it company
+participated in few projects mostly casual client-side android front-end apps.
+was leading a small part of the team - developers .
+from march 2021 till november 2021
+android developer - sk.webstudio international remote - outsource it company
+casual developer. first experience in an international team.
+from july 2020 till march 2021
+education
+couple of courses go web inyandex.practicum-asbeta-tester
+a tour of go
+go web
+go web advanced
+multithreading in go
+java back-end inmate academy-it academy
+java core
+jdbc + hibernate
+java web
+spring
+multithreading
+ertificateandroid-development oncoursera-quickstart in android-development.
+course from mipt.
+android components and interface elements
+multithreading and networking in android
+android application architecture
+notes
+application x - cannot tell the name of the application cause of nda
+company x - cannot tell the name of the company cause of nda

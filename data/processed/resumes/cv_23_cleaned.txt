@@ -1,0 +1,60 @@
+israel rishon letsiyon
+software developer linux kernel developer database developer
+contacts
+
+l inkedin
+phone whatsapp
+skills
+linux linux kernel development posix tcp ip ipv6 gtk protobuf c c++ java go
+perl python javascript jquery php ruby d lang bash csh ksh scripting freebsd
+administration sqlite mysql postgresql plpgsql kvm docker ant autotools gnu
+make cmake git subversion mercurial redmine jira jenkins
+languages
+english intermediate
+russian native
+hebrew learning
+employment history
+linux kernel developer senior linux kernel developer
+2016 2022 llc confident softproject
+design development and maintaining of the filesystem access control system based
+on lsm c linux kernel lsm vfs scheduler .
+development of the external ports control management subsystem c++ udev .
+partial development of the building deploying infrastructure for the projects.
+software developer
+2012 2014 motorola solutions
+development of the inner company telecom products and tools c c++ idl
+ethereal wireshark dissection api .
+source control management and automation clearcase bash solaris ksh active
+perl .
+freelance software developer
+2011 2012 customer st. petersburg psychology and acmeology private university
+full cycle development of the crossplatform psychology testing software gtk librsvg
+d language .
+database developer
+2010 2011 llc proxycentre
+redesign and rework the legacy dbms to support the first stage of the apec russia
+2012 event postgresql .
+development of the db ordinary stored procedures and procedures libraries to
+intercommunicate to other apec infrastructure units plpgsql plruby libpq .
+software engineer senior software engineer
+2008 2009 cjsc ntc rif
+embedded systems programming c qnx .
+development of realtime analog signal processing software.
+application development for windows platform visual c c++ .
+project management software architecture and development of the computer control
+system for the mobile diesel power plant.
+software engineer
+2005 2008 cjsc npp systema
+software development for windows and linux platforms c c++ java .
+partial development and testing of the military survivability expert system for a ship.
+partial development of the weapons accounting and management software.
+oss systems and technologies integration linux freebsd postgresql .
+web developer system administrator
+2004 2005 llc blackcat
+development of the content management system apache php mysql .
+development and support of the accounting system of payments perl mysql .
+database administration.
+local server administration freebsd .
+education
+st. petersburg state technological institute
+st. petersburg electrotechnical university

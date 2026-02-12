@@ -1,0 +1,30 @@
+
+android developer with years experience
+e-mail
+linkedin phone
+languages english hebrew russian residence tel aviv israel
+skills
+programming languages kotlin java c++ dart
+technologies android sdk android ndk android architecture components embedded programming kotlin coroutines rxjava2 dagger2 koin retrofit2 okhttp google maps api picasso material design rest api joda-time gson flutter json html5 css3 xml qt doors mks.
+ide android studio intellij idea eclipse webstorm
+used principles clean architecture mvvm pattern mvp pattern
+version control system git mercurial
+agile jira
+databases sqlite
+professional experience
+2019 present inetex ltd israel rehovot
+android developer
+project android application for multiplatform car rental portal ilcarro. it allows people all over israel share their private cars to others for a limited period or time with an affordable price for clients. mobile client offers full functionality of the portal making the searching and booking processes easier and available from anywhere.
+area of responsibility developing application from scratch fixing problems adding and testing new features code deployment.
+technologies rxjava2 livedata mvvm pattern clean architecture dagger2 retrofit2 okhttp google maps cloudinary api picasso gson.
+2017 2019 ntc astrosoft mir saint petersburg russia
+android developer
+project mobile platform for audi e-tron. it is based on android os and provides all needed information about car state to the driver and gives him control of several systems. remote control car alarm system etc.
+area of responsibility refactoring existing code base participating in embedded controlling system development implementing and testing new functionalities requirements checking code deployment.
+technologies android ndk rxjaxa2 dagger2 retrofit2 json mvp pattern cmake doors mks.
+project mobile system for malfunction detection module of gas turbine engine of military ship.
+system is based on android os and allows operators to observe and control all parameters of working gas turbine engine anywhere in the ship accelerating malfunction detection process.
+area of responsibility participating in developing and refactoring code base fixing problems code deployment.
+technologies android ndk c++ rxjaxa2 dagger2 retrofit2 json mvp pattern mvvm pattern qnx nps qt cmake doors mks
+education 2017 2019 saint petersburg electrotechnical university master s degree of computer engineering technology
+recommendations are available upon request.

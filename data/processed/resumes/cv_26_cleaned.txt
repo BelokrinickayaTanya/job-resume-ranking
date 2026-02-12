@@ -1,0 +1,46 @@
+
+tel aviv
+cid
+cid
+senior software developer cid
+agrml.github.io me
+for more than years i develop software with an urge to help people
+solve their problems. i develop product rather than close issues.
+proactivity empathy focusing on the product result end-user
+experience and runtime stability these are the qualities i value most
+both in colleagues and myself. do we match
+skills summary
+pro-level backend development python django asyncio pytest postgresql docker
+mid-level kubernets elastic search. mentoring. team leading
+languages english fluent russian mothertongue
+professional experience
+bestdoctor senior backend dev in the medical insurance sphere.
+python django pytest docker zero-code intergrations
+cid implemented multiple features in a huge django admin with a bit of js
+cid solved a problem by a paid service instead of a month of coding from scratch
+domclick sberbank tech lead and backend dev in a new buildings storefront.
+python asyncio fastapi pytest docker kubernets postgresql elastic
+cid improved stability performance test-coverage and architecture of several micro-services
+cid introduced sre practices monitorings safe migrations and processes on keeping them go
+cid improved work processes e.g. made scrum work as much as it was possible.
+cid closely worked with the product manager designed principal implementations helped to fit features to sprints
+yandex backend development in the intranet department.
+python django celery pytest docker postgresql yql
+cid worked with more than projects mainly with the internal hiring system.
+cid increased yandex employee hiring rate and decreased leaving rate by developing reference giving system and
+employee rotation system
+cid launched a negotiation service. designed a state machine for creating a new negotiation.
+cid leadedmigrationtoanewpaas.improved5affectedlibs tools migrated3projectsmyself managedmigration
+of other projects.
+cid mentored in yandex backend development school
+arccn rnd in the field of software-defined networking.
+cid developed of a link state monitoring system c++ python. bfd openflow protocols
+cid designed a rule caching system for openflow software switches c intel dpdk. p4 protocol
+education
+bachelor of computer science moscow state university.
+department of computational mathematics and cybernetics
+publications and teaching
+2021 developing backend using django an online course author and lecturer
+2021 the way i develop software an article on medium ru
+2017 usinghashfunctionstoaccelerateperformanceofopenflowswitches agranovskiym. shalimova. program
+systems and toolware msu 2017

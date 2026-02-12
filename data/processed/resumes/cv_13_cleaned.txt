@@ -1,0 +1,37 @@
+
+front-end developer
+mobile phone
+linkedln
+github
+professional skills
+languages python . and . javascript es4 es5 es6 html5 dhtml xhtml css3 scss less php fundamentals
+frameworks django flask jquery foundation express.js
+libraries redux react redux form redux saga bootstrap material-ui beautifulsoup underscore sqalchemy lodash
+server technologies node.js fundamentals apache fundamentals mamp wamp
+db mysql sqlite postgresql
+os mac linux windows
+other git virtualenv npm gulp eslint babel cypress zeplin kanban asana jira flux ui ux
+work experience
+front-end developer - 2019
+trucknet - rishon lezion israel
+developing responsive web applications using javascript react and redux
+responsible for implementation of new mainframe development project
+writing new components using material-ui and redux form
+analyzed ui ux design for responsive layout for improved usability
+worked with team of developers to resolve front-end and css issues
+education
+nau national aviation university . computer science 2012-2014
+wsei high school of economics and innovations . programming 2014-2018
+iitc interbit masa tlalim 2018-2019
+recommendations
+trucknet - eilat israel
+alexander gusev
+languages knowledge
+native russian native ukrainian
+upper intermediate english b2 intermediate polish b1
+volunteering
+volunteering in organization maidan s hospital . helping people who took part in maidan revolution and soldiers in ato zone
+helping old people in christian nursing home
+volunteering on festival of ukrainian culture in poland
+volunteering on congress of eastern european initiatives
+volunteering on festival of japanese culture nejiro

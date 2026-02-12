@@ -1,0 +1,27 @@
+leonid shalaev full stack developer with + year experience
+back-end java spring sql nosql front-end javascript typescript react redux css html
+english hebrew russian beer sheva israel 1987
+technical skills
+programming languages java javascript typescript c# c++ php pascal assembler vba
+backend technologies java collections java streams multithreading jdbc api spring spring boot spring aop spring mvc spring security spring cloud spring data hibernate maven gradle jackson project lombok jpa apache tomcat apache kafka junit json xml yml rest docker
+elk stack log4j firebase heroku jwt node.js postman kubernetes stomp jpql
+frontend react redux rxjs redux-thunk jquery html5 css3 bootstrap material ui lodash axios webpack npm jwt json xml rest api operating systems windows linux mac os
+databases sql postgresql mysql mariadb h2 nosql mongodb firebase
+methodologies of software development agile scrum aop oop ood
+network protocols tcp udp ip http ide tools intellij idea eclipse webstorm vscode
+version control project management git bitbucket github jira trello
+experience
+2021 - present full stack developer rehovot israel.
+participated in design and development of an engine for any online ordering system.
+responsibilities overall architecture design and implementation of user s management shopping cart ordering order s management product s management report s generation persistence crud.
+stack and technologies java stream api multithreading docker spring boot spring web spring aop spring security spring data hibernate jackson project lombok maven tomcat javascript typescript react redux redux-thunk html5 css3 json firebase bootstrap lodash.js jwt material ui npm webpack rest websockets stomp postgresql mongodb.
+2012 - 2021 network planning optimization engineer moscow russia. full cycle of swap projects during upgrade mobile networks 2g 3g lte. responsible for achieving target kpi during customer s cluster acceptance. troubleshooting. scripts preparation and implementation. bts bsc rnc enodeb.
+2010 - 2012 network engineer volgograd russia.
+planning and optimization of mobile network 2g 3g. configuring of the radio access subsystem. measurement of the main indicators of network quality. calculation of coverage maps. analysis of statistics.
+2009 - 2010 system administrator volgograd russia.
+deploying of office infrastructure. domain controller windows server 2008 ad dns dhcp lan wan vpn wsus iis 1c . ms exchange 2007 pbx panasonic kx-tda100.
+education
+2004-2009 master computer science and information technology volgograd russia
+2020-2021 online course for learning java programming.
+2021 tel ran educational center special program for software developers adaptation in accordance with israel it technologies by the ministry of absorption and jewish agency of israel.
+recommendations are available upon request

@@ -1,0 +1,56 @@
+rehovot israel
+about me
+senior solution architect with wide experience of creating and maintaining it systems. deep knowledge of
+c# javascript sql php and many other technologies + experience in microsoft technologies. i ve
+implemented a large number of projects on sharepoint 2007 2010 and 2019 platforms. developed
+applications both for sharepoint and standalone integrated them with external databases and web-
+services.
+over fifteen years experience in programming and a master degree in engineering makes me capable of
+executing complicated and challenging projects.
+my family and i did alia last year and im looking for a company to continue my career in israel.
+technical skills set
+development of environments asp.net c# java script and frameworks react jquery nodejs
+xhtml css xml dom php powershell windows cmd-scripts unix shell scripts.
+development applications for sharepoint web-parts timer jobs web-services mvc
+applications .net and net.core
+deep experience with databases microsoft sql server 2008 2012 mysql writing complex sql
+queries creating stored procedures views optimization of sql queries.
+experience
+2008 2022 gpb financial company
+. senior software engineer
+i successfully completed the portal migration from sharepoint 2010 to sharepoint 2019 - 25k+ active
+users 1tb content databases about various applications and customizations. i made a substantial
+analysis of the existing system its infrastructure applications and integration with external systems. i
+created a migration plan and then managed the process also i developed and implemented several
+applications for direct data migration from sharepoint 2010 to 2019.
+automated the development process based on sharepoint 2019 and net.core applications with
+teamcity bitbucket. successfully leaded the team of employees. managed full stack development
+from receiving a task to a complete solution.
+2010 - 2015. full-stack sharepoint software developer.
+full life cycle support of the portal system based on microsoft sharepoint. collaborated with contractors
+to offer and then develop and implement different solutions. integrate various features and technical
+specifications of applications continuous functionality of the portal system developed sharepoint
+solutions for internal needs.
+developed an employee information application asp.net c# mssql sharepoint with custom database
+integrated with employee accounting system and active directory. aggregation data from several
+databases synchronous and asynchronous exchanges between different data sources. created a number
+of applications that use sharepoint objects as datasource custom web-parts for sharepoint.
+2008 2010. junior software developer.
+development of simple applications and functions for internal needs of the company - polls photogallery
+making promo-pages. simple sql requests and usage in web-applications.
+2007 2008. traverse avia service air flights organization head engineer
+created and supported company web-sites on php and mysql using self-made cms.
+2006 2007. protek pharmaceutical company it-specialist
+developed a multivariable search system of drugs in pharmacies in moscow using php and mysql a
+website search system with multivariable filters.
+. rbc media company web-master
+member of a team of developers.
+education
+1998 .
+most recent courses
+sharepoint 2016 administration microsoft iis . administration and troubleshooting microsoft
+visual studio 2012 alm testing tools microsoft
+hobbies
+sports fitness snowboard photo arduino.
+languages russian native english upper intermediate
+

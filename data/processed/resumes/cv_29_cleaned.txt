@@ -1,0 +1,46 @@
+israel netanya tel e-mail
+frontend developer full stack developer
+an energetic motivated and responsible young developer. i enjoy learning new technologies and want to
+improve my skills that i acquired at university and studied independently and grow as a developer. now i m
+developing on react.js node.js. i graduated from art school like design and my creativity helps me in front-
+end development and i would like to use it in my work.
+technologies react.js redux node.js express.js javascript html css scss mongodb java spring
+boot spring mvc oop hibernate bootstrap postgresql sql git.
+experience
+gold ventures investment israel java software developer
+technologies java spring boot spring data jpa spring security spring mvc hibernate maven
+thymeleaf html css bootstrap postgresql debian github.
+responsibilities
+develop database structure develop backend on spring boot mvc security jpa
+develop frontend with thymeleaf html and bootstrap deploy project
+group management
+key achievements
+i worked as a team leader developed a working application and deployed it to a web server.
+neolines frontend developer
+technologies drupal photoshop bootstrap html css.
+responsibilities
+develop frontend elements using html css photoshop bootstrap
+content management and copywriting using drupal
+key achievements
+participated in the development and support of four projects.
+education
+udemy course. development on react.js node.js
+development internet market build ecommerce website like amazon react node
+mongodb .
+technologies node.js express.js react.js redux mongodb css
+masa tlalim israel education program java programming.
+studied java core collection api android.
+bachelor s degree software engineering at moscow technological
+university
+studied java c++ javascript pascal programming data structure algorithms oop software
+engineering mathematics sql databases cisco.
+graduation work inventorys program for department of the institute. technologies android java spring
+boot spring data jpa spring mvc hibernate maven postgresql mustache.
+certificates
+cisco ccna course. routing and switching. introduction to network technologies
+iitc college certificate. course java and android programming
+links
+github
+linkedln
+artstation
+languages english professional working proficiency russian native hebrew basic

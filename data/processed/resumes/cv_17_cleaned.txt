@@ -1,0 +1,37 @@
+linkedin-profile israel rishon lezion
+frontend developer with extensive experience designing developing implementing and
+maintaining software used in sales rental apartments e-commerce and human resources.
+good knowledge and understanding of current frontend development technologies. successful
+experience using different js frameworks. experience in server-side development database
+management systems administration.
+i love my profession because it s not just a job it s my hobby. it makes me passionate driven
+and an effective team player.
+experience
+2020 present frontend developer at noviopus rishon lezion israel
+i manage and responsible for the development of two front-end applications of an
+intelligent recruitment system.
+extended functionality of the existing application refactored existing code base and
+prepared the application release.
+develope the application from scratch based on react designed the architecture of the
+application implemented the core modules of the application.
+stack react redux material-ui cypress.
+2018 - designed developed and deployed frontend applications from scratch and implemented
+new features of existing projects. used stack react redux vue.js backbone.js
+marionette.js jquery sass.
+developed the api endpoints for the distributed sales management system.
+used stack django framework postgresql docker vagrant.
+optimized system performance by monitoring and rewriting sql queries postgresql .
+collaborated with technical support and assistance team in resolving customer technical
+issues.
+2017 - 2018 full stack developer at kvartirka.com chelyabinsk russia
+migrated an backbone.js codebase into react.
+developed the api endpoints django framework
+ode coverage with unit tests pytest
+2015 - build custom e-commerce shops commercial and corporate websites based on existing
+solutions and development from scratch. django html css bitbucket .
+design implementation and operating of database mysql
+education
+1999 - 2004 south ural state university susu chelyabinsk russia
+engineer s degree - urban construction and management.
+2016 - geekbrains - mail.ru group - course html css javascript python django.
+languages english hebrew russian.

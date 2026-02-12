@@ -1,0 +1,39 @@
+
+frontend developer
+languages english hebrew russian german kazakh
+residence tel-aviv area israel
+phone
+e-mail
+experience summary
+programming languages javascript es6+ familiar with java c# c++ c.
+web html5 css3 npm webpack babel bootstrap material ui react less.
+technologies frameworks json ajax.
+environments-ide webstorm eclipse intellij idea android studio visual studio visual studio code github agile uml adobe photoshop figma.
+collaboration tools slack ms teams trello
+professional experience
+2020-2022 customer care associate cgs netanya israel
+project customer care for dell in cis.
+areas of responsibilities
+support dell customers and service providers in cis
+2019 2020 frontend react developer inetex ltd rehovot israel
+project a single page web application of ticket service administrator moderator control panel simple and clear mechanism for managing events for setting up the structure of concert halls with prices and capacity user part user-friendly interface for booking and buying tickets through paypal service.
+areas of responsibilities
+developing responsive ui
+building and maintaining code participating in code review
+adding new features fixing problems
+code deployment.
+technologies es6+ html5 css3 less react react router react daypicker redux bootstrap material ui momentjs json npm jest eslint ajax webpack babel.
+process organization technologies git github scrum pair-programming trello.
+2017 2019 user support and information security it specialist bayer kaz llp almaty kazakhstan
+areas of responsibilities
+developing and supporting corporate website on sharepoint users support physical infrastructure monitoring it security issues preventing and monitoring.
+2016 2017 junior web developer steam m almaty kazakhstan
+projects enterprise management system which includes employee and equipment management production processes management. road display system shows traffic level nearest places and important information.
+areas of responsibilities
+building and maintaining code participating in code review
+adding and testing new features fixing problems
+technologies node.js asp.net es6+ html5 css3 bootstrap json npm eslint ajax webpack babel.
+process organization technologies git github discord vsts.
+education
+2017 2018 software development step computer academy almaty kazakhstan .
+2011 2015 b.sc. in telematics kazakh-german university almaty kazakhstan .

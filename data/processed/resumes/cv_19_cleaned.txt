@@ -1,0 +1,62 @@
+full stack java developer
+
+years of total experience in development web frontend and development java backend .
+personal information
+
+tel email city of residence ashdod date of birth
+
+linkedin
+
+skills summary
+programming languages java javascript typescript sql html css vba.
+
+technologies frameworks spring spring boot spring security lombok swagger hibernate junit java
+
+persistence api multithreading maven jquery bootstrap rest kafka heroku angular material design
+react redux context api formik axios lodash hooks vue.js node.js.
+
+environments ide intellij idea webstorm eclipse vs code xcode.
+
+databases sql mysql postgresql nosql mongodb firebase .
+
+version control project management git bitbucket github jira agile scrum.
+
+software architecture oop json design patterns microservices dependency injection.
+
+operating systems mac os windows.
+
+additional skills adobe creative suite photoshop illustrator xd dreamweaver acrobat professional ms
+
+office access excel word figma mailchimp.
+spoken languages english hebrew russian.
+
+experience
+web developer naya technologies migvisor herzliya israel 2020-present
+cloud database migration assessment
+developing responsive frontend website on angular material design.
+troubleshooting and debugging application.
+tools summary typescript angular html css material design rest firebase.
+
+full stack java developer inetex ltd. rehovot israel
+p2p car sharing
+developing responsive frontend websites on angular and react.
+developing backend website application. restful web service based on spring boot.
+creation integration and management of nosql databases on firebase.
+troubleshooting and debugging application.
+tools summary typescript angular javascript react html css material design bootstrap rest google map api
+
+firebase spring spring boot spring security swagger dependency injection.
+
+web developer regions group moscow russia
+development and commercial real estate management
+production maintenance updating and optimization of frontend websites based on usability.
+creating cascading style sheets that are consistent across all browsers and platforms.
+identifying and troubleshooting various website issues and coding problems.
+education
+master of mathematics and computer science in finance
+plekhanov russian university of economics 2004 moscow russia
+html 2006 moscow russia
+
+web-development 2015 moscow russia
+
+full stack java development 2018 rehovot israel

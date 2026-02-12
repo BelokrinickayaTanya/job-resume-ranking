@@ -1,0 +1,48 @@
+
+full stack developer with + years of experience
+front end typescript react redux
+back end javascript nodejs mongodb
+phone e-mail
+linkedin residence netanya israel
+birthday languages hebrew english russian
+professional skills
+programming languages javascript typescript java php c++
+web html5 css3 flex grid css modules node js rest api jquery bootstrap material design react
+react icon react day picker react carousel react router redux redux thunk redux devtools styled
+component context api axios fetch lodash nodemon google map api google geocoding api
+ide tools eclipse intellij idea webstorm vs code github heroku firebase postman mongodb atlas
+technologies express spring spring boot multithreading maven lombok swagger hibernate
+databases nosql mongodb firebase sql mysql os mac os windows linux
+additional skills graphic 3d design photoshop illustrator coreldraw 3ds max
+professional experience
+2021 - current time full stack developer at optisor ltd rehovot israel
+latest project corporate web application for a creative event agency.
+my tasks thinking over and developing the web application interface integrating the approved design
+layout creating and filling the site pages creating components galleries adding a registration and
+authorization system for potential customers administrators setting up a content management system
+creating and optimizing the database.
+used typescript react redux mui axios javascript nodejs express nodemon google map api
+2019 - 2021 front end developer at vclouds moscow russia
+latest project development and maintenance of the corporate website of the company vclouds.
+my tasks layout and organization of the functionality of the web application components based on the
+approved interface and design layout. implementation of the order management system registration of new
+customers content administration.
+used javascript react redux bootstrap html css firebase
+2014 - 2019 front end developer at insight moscow russia
+project web application for automating the work of the training center.
+my tasks creating components for displaying current training courses with the ability to apply various filters
+and sorting options creating an authorization system for various user groups organizing routing based on
+the type of current authorized user setting up statistics components with a visual display of data for the
+internal needs of the company.
+used html css javascript php laravel bootstrap mysql
+project online store for a supermarket chain.
+my tasks creating an order management system through an online service creating a registration and
+authorization system developing an order administration system writing site pages and filling content
+creating a database and a site management system.
+used html css javascript php mysql
+my education
+2005 - 2009 msu faculty of computational mathematics and cybernetics department of system
+programming bachelor degree
+2020 - 2021 tel-ran educational center israel. special program for adaptation of software developer
+according to israel it technologies
+recommendations are available upon request

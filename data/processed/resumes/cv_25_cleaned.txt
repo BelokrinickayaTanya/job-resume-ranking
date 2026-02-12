@@ -1,0 +1,43 @@
+senior .net engineer
+
+skills c# .net core web api graphql asp.net mvc typescript angular + rxjs
+ngrx ngxs bootstrap material node.js expres html css ms sql ef core
+dapper redis mongodb database design t-sql linq ms dynamics crm
+microsoft azure appservice functions service bus redis queues key-
+vault application insights azure devops aws digitalocean heroku
+auth0 powerbi ssrs git
+work experience 2022 2022 project employment
+full stack engineer jerusalem israel
+designed and developed the educational application for the teachers and students using .net core angular
+and mongodb.
+2021 2022 project employment
+.net team tech lead management consultant a-teamglobal zaporizhya ukraine
+working as a team lead on a backend of mobile project related to european political parties set up an working
+environment and proper sdlc providing management and delivery consultations to company management
+closely working with customers with working scope negotiations considering human resources participating
+in interviews.
+2020 2021
+.net team lead weblegends kyiv ukraine
+leading software development of two projects simultaneously making a decision about the technical stack
+and priorities allocating human resources communicating with stakeholders.
+2019 2020 project employment
+bootcamp manager .net teacher tbilisi georgia
+lecturing programming classes for several groups of students managing another teaching members creating
+workflow for final students project including creating project from scratch setting up all the development and
+task tracking environments supervising of creating specifications and prototypes for project leading
+trainee developers finishing mvp and making demo.
+2011 2019
+.net developer various companies ukraine
+web development using asp.net mvc web api javascript.
+education bachelor s degree 2022
+mykolaiv building college ethereum blockchain developer bootcamp with
+software engineering solidity udemy
+2008 - 2021
+flashloans eattheblocks
+2014
+asp.net mvc advanced cyberbionicsystematics
+2013
+c# for professionals cyberbionicsystematics
+about have perfect communication skills decent experience in mentorship and education.
+im amateur runner have completed certificate of first aid courses good sense of humor.
+hebrew english professional proficiency ukrainian russian native.

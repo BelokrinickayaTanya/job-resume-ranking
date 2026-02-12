@@ -1,0 +1,37 @@
+years of proven experience
+years in java backend year in nodejs year in react angular
+phone residence hod-hasharon
+relevant experience summary
+programming languages java javascript python go
+technologies frameworks spring nodejs angular react microservices architecture
+environments eclipse intellij idea visual studio webstorm pycharm
+databases mysql hbase cassandra mongodb couchbase
+streaming kafka
+clouding heroku firebase docker kubernetes openshift
+operating systems linux windows
+professional experience
+2019 - 2020 java microservices python developer amdocs israel raanana
+was involved in cpq project which allows telecom industry to provide price configuration on delivering internet products to its customers. an example would be delivering business internet wifi to hundreds of macdonald s branches.
+eclipse intellij pycharm kafka spring cloud stream restful web service spring boot starter web mysql and couchbase mysql connector java starter data jpa openshift docker kubernetes jenkins pytest python junit jira confluence rally linux windows
+2017 - 2019 fullstack java js developer inetex ltd israel rehovot
+project health care monitoring system. application using massaging allows to doctor immediately react on abnormal state of the patients health data
+kafka spring cloud stream
+restfull web service spring boot starter web
+authentication authorization spring security
+mysql and mongodb mysql connector java starter data jpa
+project social network inside the company that allows users to share knowledge sharing and posting
+angular cli
+nodejs express mongodb
+2014-2017 full stack java js developer websoft russia smolensk
+project car renting. service was built for the company that rents its own car to clients
+restfull web service spring boot starter web
+authentication authorization accounting spring security
+interface with mysql mysql connector java starter data jpa
+project web-scrapping application that enables user to get prices of the competitors.
+nodejs mongodb cli
+education
+2011-2013 masters in business administration touro college germany
+2006-2011 masters in computerized economics university of economics russia
+language
+hebrew fluent english fluent russian
+recommendations are available upon request.
